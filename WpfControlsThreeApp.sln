@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfControlsThreeApp", "WpfControlsThreeApp\WpfControlsThreeApp.csproj", "{FCF1FF81-EC43-4B25-B8ED-1D3FA91A8392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF1FF81-EC43-4B25-B8ED-1D3FA91A8392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF1FF81-EC43-4B25-B8ED-1D3FA91A8392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF1FF81-EC43-4B25-B8ED-1D3FA91A8392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF1FF81-EC43-4B25-B8ED-1D3FA91A8392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EC09F49-85C6-4B6B-801F-93273FB00C62}
+	EndGlobalSection
+EndGlobal
